@@ -74,7 +74,6 @@
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-1a6dff?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0d4fc4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a6dff?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d4fc4?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-1a6dff?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -97,15 +96,16 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Tamohar20&show_icons=true&bg_color=0d1117&border_color=1a6dff&title_color=4D9FFF&icon_color=1a6dff&text_color=a8c8ff&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamohar20&layout=compact&bg_color=0d1117&border_color=1a6dff&title_color=4D9FFF&text_color=a8c8ff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
+<!-- Streak card - most reliable, works even for new accounts -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tamohar20&theme=dark&background=0d1117&border=1a6dff&ring=1a6dff&fire=4D9FFF&currStreakLabel=4D9FFF&sideLabels=a8c8ff&dates=a8c8ff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+<br/>
+
+<!-- WakaTime-style skill meters via shields - always works -->
+![Total Commits](https://img.shields.io/badge/Total%20Commits-12+-1a6dff?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-0d4fc4?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars%20Earned-0-1a6dff?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Coding%20Since-2025-0d4fc4?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -125,13 +125,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Tamohar20/portfolio-24BPS1016">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamohar20&repo=portfolio-24BPS1016&bg_color=0d1117&border_color=1a6dff&title_color=4D9FFF&icon_color=1a6dff&text_color=a8c8ff"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tamohar20/lifeline-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamohar20&repo=lifeline-app&bg_color=0d1117&border_color=1a6dff&title_color=4D9FFF&icon_color=1a6dff&text_color=a8c8ff"/>
-</a>
+| 🔗 Project | 📄 Description | 🛠️ Tech | 🌐 Link |
+|:---:|:---|:---:|:---:|
+| **portfolio-24BPS1016** | Personal portfolio website hosted on GitHub Pages | `HTML` `CSS` | [![View](https://img.shields.io/badge/View-1a6dff?style=flat-square&logo=github&logoColor=white)](https://github.com/Tamohar20/portfolio-24BPS1016) |
+| **lifeline-app** | A mobile app built with Dart & Flutter | `Dart` `Flutter` | [![View](https://img.shields.io/badge/View-1a6dff?style=flat-square&logo=github&logoColor=white)](https://github.com/Tamohar20/lifeline-app) |
 
 </div>
 
