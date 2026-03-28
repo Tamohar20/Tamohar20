@@ -1,169 +1,119 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Tamohar20&fontSize=60&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Explorer%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=16&descColor=7DF9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=120&section=header" width="100%"/>
 
-<div align="center">
+# Hi, I'm Tamohar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Tamohar+%F0%9F%91%8B;Full+Stack+Developer+in+the+Making;Python+%7C+Java+%7C+C+%7C+C%2B%2B+%7C+Web;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=39D353&vCenter=true&width=360&lines=Building+cool+stuff+one+commit+at+a+time;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;Python+%7C+Java+%7C+C+%7C+C%2B%2B;HTML+%7C+CSS+%7C+JS+%7C+React;Debug.+Learn.+Ship.+Repeat." alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tamohar20&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Tamohar20?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github)](https://github.com/Tamohar20)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🧑‍💻 About Me
-
-```python
-class Tamohar:
-    username   = "Tamohar20"
-    role       = "Full Stack Developer"
-    languages  = ["Python", "Java", "C", "C++",
-                  "JavaScript", "HTML", "CSS"]
-    frameworks = ["React", "Flutter"]
-    passion    = "Turning ideas into working software"
-    mindset    = "Always learning, always leveling up 🚀"
-    currently  = [
-        "Exploring Full Stack Development",
-        "Sharpening DSA skills",
-        "Building cool projects"
-    ]
-    fun_fact   = "I debug with print() and I'm proud of it 😄"
-```
-
-<br clear="right"/>
+🎓 &nbsp; Currently pursuing my degree and leveling up in **Full Stack Development**  
+💡 &nbsp; Passionate about **Python, Java, C, C++** and building things that actually work  
+🌐 &nbsp; Exploring **Web Dev** — HTML, CSS, JavaScript & React  
+🔭 &nbsp; Always tinkering with **new frameworks, tools & ideas**  
+🧩 &nbsp; Keen on **DSA, problem solving**, and open source contribution  
+🤝 &nbsp; Open to **collaborations** on interesting projects and hackathons  
+⚡ &nbsp; Fun fact: I debug with `print()` statements and I'm **not ashamed**  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌐 &nbsp; Socials
 
-<div align="center">
-
-### 💬 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F7FF"/>
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 🚀 Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=00F7FF"/>
-</p>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Tamohar20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tamohar20)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0a3d2e?style=flat-square&logo=googlechrome&logoColor=39D353)](https://tamohar20.github.io/portfolio-24BPS1016)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tamohar20@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Tamohar20/portfolio-24BPS1016">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamohar20&repo=portfolio-24BPS1016&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF&text_color=a0a0cc"/>
-</a>
-&nbsp;
-<a href="https://github.com/Tamohar20/lifeline-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamohar20&repo=lifeline-app&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF&text_color=a0a0cc"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamohar20&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF&text_color=a0a0cc&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamohar20&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=a0a0cc&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tamohar20&theme=tokyonight&background=0D1117&border=00F7FF&ring=00F7FF&fire=ff6e6e&currStreakLabel=00F7FF&sideLabels=a0a0cc&dates=a0a0cc)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
+## 🐍 &nbsp; My Contributions — Watch the Snake Go!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamohar20/Tamohar20/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamohar20/Tamohar20/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Tamohar20/Tamohar20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Tamohar20/Tamohar20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-</div>
+---
+
+## 💻 &nbsp; Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Frameworks & Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📈 Contribution Graph
+## 📊 &nbsp; GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tamohar20&show_icons=true&bg_color=0d1117&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false"/>
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamohar20&layout=compact&bg_color=0d1117&border_color=39D353&title_color=39D353&text_color=c9d1d9&langs_count=8"/>
+</p>
 
-[![Tamohar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamohar20&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF&hide_border=false&border_color=00F7FF&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Tamohar20-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamohar20)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF)](https://tamohar20.github.io/portfolio-24BPS1016)
-
-<br/>
-
-### 💬 Ask me about
-`Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `HTML/CSS` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Flutter`
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tamohar20&theme=dark&background=0d1117&border=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=c9d1d9" />
+</p>
 
 ---
 
-<div align="center">
+## 📈 &nbsp; Activity Graph
 
-### 🎯 2025 Goals
-- [ ] 🌟 Master React & build full-stack projects
-- [ ] 📚 Deep dive into Data Structures & Algorithms
-- [ ] 🤝 Contribute to Open Source
-- [ ] 🚀 Launch 3+ personal projects
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamohar20&bg_color=0d1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=0a3d2e&hide_border=false&border_color=39D353&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer&fontColor=00F7FF" width="100%"/>
+## 🚀 &nbsp; Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Tamohar20/portfolio-24BPS1016">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamohar20&repo=portfolio-24BPS1016&bg_color=0d1117&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=c9d1d9"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tamohar20/lifeline-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tamohar20&repo=lifeline-app&bg_color=0d1117&border_color=39D353&title_color=39D353&icon_color=39D353&text_color=c9d1d9"/>
+  </a>
+</p>
 
-*"The best code is the code you write today and improve tomorrow."* 💻
+---
 
-</div>
+## 🎯 &nbsp; 2025 Goals
+
+```
+ ✅  Build my first full-stack web app with React + Node.js
+ ⬜  Solve 200+ LeetCode problems
+ ⬜  Contribute to an open source project
+ ⬜  Learn REST APIs & databases (MongoDB / PostgreSQL)
+ ⬜  Ship 3 personal projects to production
+ ⬜  Land an internship or freelance project
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tamohar20&color=39D353&style=flat-square&label=Profile+Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Tamohar20?label=Followers&style=flat-square&color=39D353&labelColor=0d1117"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=100&section=footer" width="100%"/>
