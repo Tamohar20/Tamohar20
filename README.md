@@ -152,11 +152,11 @@ const goals2025 = {
 
 ---
 
-## 🏆 &nbsp; GitHub Trophies
+## 💡 &nbsp; Dev Quote of the Day
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tamohar20&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=1a6dff&quote_color=4D9FFF&author_color=a8c8ff&bg_color=0d1117)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
